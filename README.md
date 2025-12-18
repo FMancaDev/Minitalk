@@ -42,3 +42,13 @@ Then, on a second terminal, send a message using the displayed PID:
 ./client 17698 "Olá, este é o meu Minitalk! 🚀"
 ```
 
+## 🤝 Contributing
+
+To contribute, follow these steps:
+
+1. Fork the project  
+2. Create a branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m "new feature"`)  
+4. Push the branch (`git push origin feature-name`)  
+5. Open a Pull Request 🚀  
+
